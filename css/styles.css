@@ -27,7 +27,6 @@ header img {
 	max-width: 1140px;
 	margin: 0 auto;
 	padding: 51px 0 39px;
-	/*background: pink;*/
 }
 
 .menu_header ul {
@@ -74,33 +73,6 @@ header img {
 	margin-left: 280px;
 }
 
-/*.wrapper {
-	width: 100%;
-	max-width: 1170px;
-	/*background: pink;
-}*/
-
-
-/*.menu_head {
-	display: flex;
-	align-items: center;
-	padding: 51px 0 39px;
-}*/
-
-/*.menu_headitems {
-	font-size: 18px;
-	font-weight: bold;
-	text-align: center;
-	text-transform: uppercase;
-	color: #372706;
-	transition: 0.4s;
-}*/
-/*
-.menu_headitems:hover {
-	cursor: pointer;
-	color: #e24f33;
-}*/
-
 .blog {
 	text-align: right;
 }
@@ -115,7 +87,6 @@ header img {
 	height: 100%;
 	max-width: 1300px;
 	height: auto;
-	/*background: green;*/
 	background: url('../img/main.png') no-repeat center;
 }
 
@@ -157,7 +128,6 @@ header img {
 .container {
 	max-width: 1155px;
 	margin: 0 auto;
-	/*background: orange;*/
 }
 
 h2 {
@@ -168,15 +138,6 @@ h2 {
 	text-transform: uppercase;
 	color: #724227;
 }
-
-/*h2:after {
-	display: block;
-	content: '';
-	margin: 25px auto 44px;
-	width: 250px;
-	height: 2px;
-	background: #a6a6a6;
-}*/
 
 h2 span {
 	position: relative;
@@ -206,7 +167,6 @@ h2 span:before {
 
 .product_item {
 	position: relative;
-	/*display: inline-block;*/
 	padding: 10px;
 	max-height: 280px;
 	width: 350px;
@@ -286,7 +246,6 @@ h2 span:before {
 }
 
 .reviews {
-	/*box-sizing: border-box;*/
 	width: 100vw;
 	padding: 30px 0 20px;
 	background: url(../img/pretty-back.png);
@@ -343,10 +302,6 @@ h2 span:before {
 	font-size: 20px;
 	color: #e24f33;
 }
-/*
-.different_wrap {
-	background: #040501;
-}*/
 
 .different_types {
 	padding-top: 87px;
@@ -420,10 +375,6 @@ h2 span:before {
 	width: 100%;
 	border-bottom: 1px dashed orange;
 }
-
-/*.receips-menu ul li span.text:hover + .receips-content {
-	display: inline-block;
-}*/
 
 .receips-menu ul li span.text {
 	font-size: 21px;
@@ -713,11 +664,9 @@ h2 span:before {
 	box-sizing: border-box;
 	vertical-align: top;
 	padding-right: 20px;
-	/*padding-top: 52px;*/
 	width: 285px;
 	color: #fff;
 	line-height: 26px;
-	/*background: pink;*/
 }
 
 .contacts_block h3 {
@@ -730,7 +679,6 @@ h2 span:before {
 }
 
 .contacts_block span a {
-/*	margin-left: 12px;*/
 	display: block;
 	text-align: left;
 	color: #fff;
@@ -881,7 +829,6 @@ header .menu_header .menulink.menu-active {
 	display: inline-block;
 	vertical-align: top;
 	width: 575px;
-/*	background: pink;*/
 }
 
 .main-services-item {
@@ -904,7 +851,6 @@ header .menu_header .menulink.menu-active {
 	display: inline-block;
 	margin-left: 39px;
 	width: 290px;
-/*	background: green;*/
 }
 
 .main-services-header {
@@ -918,7 +864,6 @@ header .menu_header .menulink.menu-active {
 	text-align: left;
 	padding: 0 50px 20px 0;
 }
-
 
 .main-services-text p {
 	margin: 0;
@@ -936,8 +881,3 @@ header .menu_header .menulink.menu-active {
 	max-width: 500px;
 	overflow: hidden;
 }
-
-/*width: 100vw;
-	padding: 30px 0 20px;
-	background: url(../img/pretty-back.png);
-	background-size: cover;*/
